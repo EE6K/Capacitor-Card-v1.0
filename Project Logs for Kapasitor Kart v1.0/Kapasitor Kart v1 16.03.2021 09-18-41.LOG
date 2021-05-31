@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Added Member To Class: ClassName=Kapasitor Kart v1.0 Member=Component C2 3300uF
+Added Member To Class: ClassName=Kapasitor Kart v1.0 Member=Component C3 3300uF
+Added Member To Class: ClassName=Kapasitor Kart v1.0 Member=Component C4 3300uF
+Added Member To Class: ClassName=Kapasitor Kart v1.0 Member=Component C5 3300uF
+Added Member To Class: ClassName=Kapasitor Kart v1.0 Member=Component C6 3300uF

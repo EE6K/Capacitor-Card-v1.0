@@ -1,0 +1,96 @@
+Added Component: Designator=C1(TH/C/10mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "B41252A6338M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B41252A6338M000/3493682"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B41252A6338M000/3493682"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey No"; Value = "495-6173-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr No"; Value = "B41252A6338M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3300uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volt"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(TH/C/10mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "B41252A6338M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B41252A6338M000/3493682"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B41252A6338M000/3493682"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey No"; Value = "495-6173-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr No"; Value = "B41252A6338M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3300uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volt"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(TH/C/10mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "B41252A6338M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B41252A6338M000/3493682"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B41252A6338M000/3493682"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey No"; Value = "495-6173-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr No"; Value = "B41252A6338M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3300uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volt"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(TH/C/10mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "B41252A6338M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B41252A6338M000/3493682"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B41252A6338M000/3493682"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey No"; Value = "495-6173-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr No"; Value = "B41252A6338M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3300uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volt"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(TH/C/10mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "B41252A6338M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B41252A6338M000/3493682"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B41252A6338M000/3493682"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey No"; Value = "495-6173-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr No"; Value = "B41252A6338M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3300uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volt"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(TH/C/10mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "B41252A6338M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B41252A6338M000/3493682"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/epcos-tdk-electronics/B41252A6338M000/3493682"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey No"; Value = "495-6173-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr No"; Value = "B41252A6338M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3300uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volt"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(87438-0443)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com.tr/ProductDetail/Molex/87438-0443?qs=IOh0O5QtZ911kd24EQ6lAA=="; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr No"; Value = "87438-0443"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser No"; Value = "538-87438-0443"; VariantName = "[No Variations]"
+Added Component: Designator=J2(87438-0443)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com.tr/ProductDetail/Molex/87438-0443?qs=IOh0O5QtZ911kd24EQ6lAA=="; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr No"; Value = "87438-0443"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser No"; Value = "538-87438-0443"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=Vcc Pin=C1-1
+Added Pin To Net: NetName=Vcc Pin=C2-1
+Added Pin To Net: NetName=Vcc Pin=C3-1
+Added Pin To Net: NetName=Vcc Pin=C4-1
+Added Pin To Net: NetName=Vcc Pin=C5-1
+Added Pin To Net: NetName=Vcc Pin=C6-1
+Added Pin To Net: NetName=Vcc Pin=J1-1
+Added Pin To Net: NetName=Vcc Pin=J1-1
+Added Pin To Net: NetName=Vcc Pin=J1-2
+Added Pin To Net: NetName=Vcc Pin=J1-2
+Added Pin To Net: NetName=Vcc Pin=J2-1
+Added Pin To Net: NetName=Vcc Pin=J2-1
+Added Pin To Net: NetName=Vcc Pin=J2-2
+Added Pin To Net: NetName=Vcc Pin=J2-2
+Added Net: Name=Vcc
+Added Class: Name=Kapasitor Kart v1.0

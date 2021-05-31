@@ -1,0 +1,10 @@
+Net Status Report
+Filename     : C:\Users\ealtikardesler\OneDrive - Ekin Smart City Technology\Masaüstü\Kapasitör Kart\Kapasitor Kart v1.0\Kapasitor Kart v1.0.PcbDoc
+Date         : 16.03.2021
+Time         : 10:41:45
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    GND, Signal Layers Only, 0.3556mm
+    Vcc, Signal Layers Only, 0mm
+count : 2

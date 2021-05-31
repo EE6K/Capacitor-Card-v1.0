@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=Vcc Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=Vcc Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=Vcc Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=Vcc Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=Vcc Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Change Component DesignItemId : Designator=C1 Old DesignItemId= New DesignItemId=AlumCap
+Change Component Footprint: Designator=C1 Old Footprint=TH/C/10mm New Footprint=TH/C/7.50mm
+Change Component Description : Designator=C1 Old Description=B41252A6338M000 New Description=35RX303300M18X35.5
+Change component parameters: Designator = "C1"; Footprint = "TH/C/7.50mm"; UniqueID = "\FORMWITC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rubycon/35RX303300M18X35-5/3134241"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/rubycon/35RX303300M18X35-5/3134241"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey No"; Value = "1189-1285-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr No"; Value = "35RX303300M18X35.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3300uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Volt"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(TH/C/7.50mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rubycon/35RX303300M18X35-5/3134241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/rubycon/35RX303300M18X35-5/3134241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey No"; Value = "1189-1285-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr No"; Value = "35RX303300M18X35.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3300uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volt"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(TH/C/7.50mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rubycon/35RX303300M18X35-5/3134241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/rubycon/35RX303300M18X35-5/3134241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey No"; Value = "1189-1285-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr No"; Value = "35RX303300M18X35.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3300uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volt"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(TH/C/7.50mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rubycon/35RX303300M18X35-5/3134241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/rubycon/35RX303300M18X35-5/3134241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey No"; Value = "1189-1285-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr No"; Value = "35RX303300M18X35.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3300uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volt"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(TH/C/7.50mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rubycon/35RX303300M18X35-5/3134241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/rubycon/35RX303300M18X35-5/3134241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey No"; Value = "1189-1285-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr No"; Value = "35RX303300M18X35.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3300uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volt"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(TH/C/7.50mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/rubycon/35RX303300M18X35-5/3134241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/rubycon/35RX303300M18X35-5/3134241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey No"; Value = "1189-1285-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr No"; Value = "35RX303300M18X35.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3300uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volt"; Value = "35V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vcc Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=Vcc Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=Vcc Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=Vcc Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=Vcc Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2

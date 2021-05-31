@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\ealtikardesler\OneDrive - Ekin Smart City Technology\Masaüstü\Kapasitör Kart\Kapasitor Kart v1.0\Kapasitor Kart v1.0.PcbDoc
+RuleKind=Clearance|RuleName=Bottom Pour/Keeopout|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Top Pour/Keepout|Scope=Board|Minimum=19.69
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=19.69
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
