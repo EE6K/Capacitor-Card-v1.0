@@ -1,0 +1,14 @@
+++VIN bottom layer bağlantısı mosfete kadar götürülecek.
+++MOSFET padleri solid regionları genişletebildiğim kadar genişlet.
+++Bobin altı gnd plane kaldırılabilir. Solid region kullanıulabilir.
+++Komponent yerleşimleri vout tarafı biraz uzaklaştırılabilir.
+++Konektör tarafı 2+ 2- olacak şekilde planeler biraz ayrık olacak.
+-------------------------------------------------------------------
+++Top layer işlemci tarafı özellikle gnd plane atılmalı.
+++Güç gnd si ile dijital mcu tarafı gnd ayrı planeler ile
+++giriş konektörüne kadar gelip orada birleşmelşi.
+-------------------------------------------------------------------
+++Vout min 1mm seperasyon olsa iyi olur.
+-------------------------------------------------------------------
+
+
